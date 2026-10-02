@@ -1,0 +1,7 @@
+.env
+clients.json
+Archive/
+email_things/*
+report_staging/*
+wm_stuff/
+/.venv/
